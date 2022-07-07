@@ -1,4 +1,4 @@
-# Bikcraft
+# Origamid-Bikcraft
 
 
 Project carried out during the Origmaid HTML and CSS course.
